@@ -1,0 +1,70 @@
+#nav {
+  background-color: #f2f6ff;
+  border: #d1dec1;
+  border: 20px; }
+
+body {
+  background-color: #d8ded6; }
+
+#mainContainer {
+  background-color: #f2f6ff;
+  margin: 10%;
+  padding: 1%; }
+
+.taskList {
+  background-color: #d1dec1;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px; }
+
+.task {
+  display: flex;
+  flex-direction: row;
+  background-color: #f2f6ff;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: space-between; }
+
+.grey {
+  background-color: #808276;
+  color: white; }
+
+.green {
+  background-color: #60D2B6;
+  color: white; }
+
+.btn {
+  margin: 3px; }
+
+.tag {
+  border-radius: 20px;
+  padding: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  float: end; }
+
+.task-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center; }
+
+.tag-red {
+  background: #ff3d3a; }
+
+.tag-blue {
+  background: #60a6ff; }
+
+.tag-green {
+  background: #43ff62; }
+
+.tag-yellow {
+  background: #ffdc66; }
+
+.list-name {
+  font-size: 20px; }
+
+/*# sourceMappingURL=Css.css.map */
